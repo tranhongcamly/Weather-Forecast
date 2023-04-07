@@ -1,0 +1,26 @@
+.city-name {
+    font-size: 25px;
+    margin-bottom: 3px;
+}
+
+.country-name{
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.weather-desc {
+    font-size: 13px;
+}
+
+.temperature {
+    font-size: 80px;
+    font-weight: lighter;
+}
+
+.localtime{
+    margin-top: 10px;
+    font-style: italic;
+}
+p{
+    margin: 0;
+}
